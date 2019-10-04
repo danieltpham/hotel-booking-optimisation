@@ -15,6 +15,9 @@ The famous [vertex coloring problem](http://mathworld.wolfram.com/ChromaticNumbe
 
 This personal project applies the previous algorithm to [a real-life hotel booking dataset](https://www.sciencedirect.com/science/article/pii/S2352340918315191), using data manipulation techniques to query the dataset and demonstrate the huge execution time of this simple approach.
 
+### View Project
+[Click here to view project output](https://nbviewer.jupyter.org/github/danieltpham/hotel-booking-optimisation/blob/master/Optimisation_Stage2.ipynb)
+
 ### Methodologies
 * Python
 * Pandas, jupyter
